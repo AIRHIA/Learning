@@ -1,0 +1,22 @@
+Street Name,Bedrooms,Area (m^2),Floors,Price (£)
+Ings Villa,3,110,2,658000
+Brent Lea,4,100,3,985000
+Hanbury Lane,3,90,2,754000
+Tourney Green,5,120,3,1200000
+The Pavillion,5,130,3,1350000
+Tawel Road,2,90,2,550000
+Maddison Lane,6,145,4,1550000
+Evergreen Lane,4,130,3,990000
+Dogwood Lane,3,110,2,850000
+Lexington Drive,4,120,3,1050000
+Beech Street,5,150,2,1200000
+Durham Road,3,100,3,1050000
+West Street,4,110,2,1100000
+Eastern Ave,5,120,3,1350000
+Tanglewood Drive,2,80,3,560000
+Brook Lane,3,90,3,750000
+Walnut Ave,4,110,2,910000
+Poplar Street,5,100,3,1050000
+Pleasant Road,5,120,3,1150000
+Magnolia Drive,4,100,3,1100000
+Academy Lane,6,160,4,1600000
